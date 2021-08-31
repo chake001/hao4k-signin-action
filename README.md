@@ -6,7 +6,7 @@
 
 基于 Github Actions 的 [Hao4K](https://www.hao4k.cn/) 自动签到来增加K币
 
-## 功能
+## 功能.
 
 - 每日凌晨 12 点定时签到
 - 支持监控告警，具体配置文档查看[Server 酱](https://sct.ftqq.com/)，消息通道支持以下渠道
