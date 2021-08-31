@@ -5,7 +5,7 @@ on:
     branches: 
       - main
   schedule:
-    - cron: '25 9,22 * * *'
+    - cron: '26 9,22 * * *'
 
 jobs:
   Hao4K-autoSignIn:
