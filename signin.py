@@ -11,7 +11,7 @@ send_url = "https://sctapi.ftqq.com/%s.send" % (sckey)
 send_content = 'Server ERROR'
 
 # hao4k 签到 url
-user_url = "https://www.hao4k.cn/member.php?mod=logging&action=login&phonelogin=yes"
+user_url = "https://www.hao4k.cn//member.php?mod=logging&action=login"
 base_url = "https://www.hao4k.cn/"
 signin_url = "https://www.hao4k.cn/plugin.php?id=k_misign:sign&operation=qiandao&formhash={formhash}&format=empty"
 form_data = {
