@@ -10,7 +10,7 @@ sckey = os.environ["SERVERCHAN_SCKEY"]
 send_url = "https://sctapi.ftqq.com/%s.send" % (sckey)
 send_content = 'Server ERROR'
 
-# hao4k 签到 url
+# 4k1080 签到 url
 user_url = "http://www.4k1080.com//member.php?mod=logging&action=login"
 base_url = "http://www.4k1080.com/"
 signin_url = "http://www.4k1080.com/plugin.php?id=k_misign:sign&operation=qiandao&formhash={formhash}&format=empty"
