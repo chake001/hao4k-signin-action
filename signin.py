@@ -5,7 +5,7 @@ import re
 # hao4k 账户信息
 username = os.environ["HAO4K_USERNAME"]
 password = os.environ["HAO4K_PASSWORD"]
-# 添加 server 酱通知
+# 添加 server 酱通知.
 sckey = os.environ["SERVERCHAN_SCKEY"]
 send_url = "https://sctapi.ftqq.com/%s.send" % (sckey)
 send_content = 'Server ERROR'
